@@ -8,3 +8,5 @@ This is a test project for distributed Git
 
 ## Hotfix: updated documentation
 This line was added as a quick fix in university.
+# Lab 8: undo operations
+This line will be reverted
