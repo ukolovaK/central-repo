@@ -6,3 +6,5 @@ def login(username, password):
 
 def logout(username):
     print(f'User {username} logged out')
+def test_function():
+    return 'Testing'
