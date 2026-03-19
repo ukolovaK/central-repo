@@ -5,3 +5,6 @@ This is a test project for distributed Git
 - Added utils.py with helper functions
   * helper_function() - returns a greeting
   * calculate_sum(a, b) - returns sum of two numbers
+
+## Hotfix: updated documentation
+This line was added as a quick fix in university.
